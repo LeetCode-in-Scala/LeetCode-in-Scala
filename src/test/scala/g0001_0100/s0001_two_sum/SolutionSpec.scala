@@ -11,4 +11,12 @@ class SolutionSpec extends AnyFlatSpec with Matchers {
     it should "twoSum2" in {
         Solution.twoSum(Array(3, 2, 4), 6) shouldEqual Array(1, 2)
     }
+
+    it should "twoSum3" in {
+        Solution.twoSum(Array(3, 3), 6) shouldEqual Array(0, 1)
+    }
+
+    it should "twoSum4" in {
+        Solution.twoSum(Array(3, 3), 7) shouldEqual Array(-1, -1)
+    }
 }
