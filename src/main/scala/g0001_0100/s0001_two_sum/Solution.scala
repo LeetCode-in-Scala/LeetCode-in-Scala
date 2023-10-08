@@ -9,7 +9,7 @@ object Solution {
         val lookup = scala.collection.mutable.Map[Int, Int]()
         for (idx <- nums.indices) {
             if (lookup.contains(target - nums(idx))) {
-                return Array(idx, lookup(target - nums(idx)))
+                return Array(lookup(target - nums(idx)), idx)
             } else {
                 lookup.addOne(nums(idx) -> idx)
             }
