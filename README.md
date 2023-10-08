@@ -1,6 +1,7 @@
 # LeetCode-in-Scala
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/LeetCode-in-Scala/LeetCode-in-Scala/blob/main/LICENSE)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=LeetCode-in-Scala_LeetCode-in-Scala&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=LeetCode-in-Scala_LeetCode-in-Scala)
 
 Scala-based LeetCode algorithm problem solutions, regularly updated.
 
