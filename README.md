@@ -78,6 +78,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/scala/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 482 | 96.91
 
 #### Day 7 Breadth First Search Depth First Search
 
@@ -635,6 +636,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0002 |[Add Two Numbers](src/main/scala/g0001_0100/s0002_add_two_numbers/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)) | 571 | 75.12
 
 #### Day 16
 
@@ -934,6 +936,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/scala/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 482 | 96.91
 
 #### Day 15 Tree
 
@@ -976,6 +979,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0003 |[Longest Substring Without Repeating Characters](src/main/scala/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 482 | 96.91
 
 #### Udemy Binary Search
 
@@ -1172,6 +1176,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0002 |[Add Two Numbers](src/main/scala/g0001_0100/s0002_add_two_numbers/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)) | 571 | 75.12
 
 #### Day 11 Linked List
 
@@ -1232,6 +1237,8 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0003 |[Longest Substring Without Repeating Characters](src/main/scala/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1) | 482 | 96.91
+| 0002 |[Add Two Numbers](src/main/scala/g0001_0100/s0002_add_two_numbers/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Data_Structure_II_Day_10_Linked_List, Programming_Skills_II_Day_15, Big_O_Time_O(max(N,M))_Space_O(max(N,M)) | 571 | 75.12
 | 0001 |[Two Sum](src/main/scala/g0001_0100/s0001_two_sum/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Data_Structure_I_Day_2_Array, Level_1_Day_13_Hashmap, Udemy_Arrays, Big_O_Time_O(n)_Space_O(n) | 517 | 86.66
 
 ## Contributing
