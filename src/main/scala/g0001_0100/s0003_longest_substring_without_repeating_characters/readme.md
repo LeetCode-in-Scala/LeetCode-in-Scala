@@ -10,7 +10,7 @@ Given a string `s`, find the length of the **longest substring** without repeati
 
 **Output:** 3
 
-**Explanation:** The answer is "abc", with the length of 3.
+**Explanation:** The answer is "abc", with the length of 3. 
 
 **Example 2:**
 
@@ -18,7 +18,7 @@ Given a string `s`, find the length of the **longest substring** without repeati
 
 **Output:** 1
 
-**Explanation:** The answer is "b", with the length of 1.
+**Explanation:** The answer is "b", with the length of 1. 
 
 **Example 3:**
 
@@ -26,16 +26,15 @@ Given a string `s`, find the length of the **longest substring** without repeati
 
 **Output:** 3
 
-**Explanation:** The answer is "wke", with the length of 3. Notice that the answer must be a substring, "pwke" is a
-subsequence and not a substring.
+**Explanation:** The answer is "wke", with the length of 3. Notice that the answer must be a substring, "pwke" is a subsequence and not a substring. 
 
 **Example 4:**
 
 **Input:** s = ""
 
-**Output:** 0
+**Output:** 0 
 
 **Constraints:**
 
-* <code>0 <= s.length <= 5 * 10<sup>4</sup></code>
-* `s` consists of English letters, digits, symbols and spaces.
+*   <code>0 <= s.length <= 5 * 10<sup>4</sup></code>
+*   `s` consists of English letters, digits, symbols and spaces.
