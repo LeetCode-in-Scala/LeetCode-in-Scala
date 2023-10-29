@@ -7,6 +7,13 @@ import com_github_leetcode.ListNode
 // #Big_O_Time_O(max(N,M))_Space_O(max(N,M))
 // #2023_10_17_Time_571_ms_(75.12%)_Space_58.8_MB_(68.16%)
 
+/*
+ * Definition for singly-linked list.
+ * class ListNode(_x: Int = 0, _next: ListNode = null) {
+ *   var next: ListNode = _next
+ *   var x: Int = _x
+ * }
+ */
 object Solution {
     def addTwoNumbers(l1: ListNode, l2: ListNode): ListNode = {
         val dummyHead = new ListNode(0)
