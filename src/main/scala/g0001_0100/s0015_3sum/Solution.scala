@@ -4,6 +4,7 @@ package g0001_0100.s0015_3sum
 // #Data_Structure_II_Day_1_Array #Algorithm_II_Day_3_Two_Pointers #Udemy_Two_Pointers
 // #Big_O_Time_O(n*log(n))_Space_O(n^2) #2023_10_29_Time_701_ms_(98.81%)_Space_66.7_MB_(88.10%)
 
+@SuppressWarnings("scala:S3776")
 object Solution {
     def threeSum(nums: Array[Int]): List[List[Int]] = {
         val sortedNums = nums.sorted
