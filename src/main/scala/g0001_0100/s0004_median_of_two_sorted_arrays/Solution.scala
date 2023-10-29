@@ -4,7 +4,7 @@ package g0001_0100.s0004_median_of_two_sorted_arrays
 // #Big_O_Time_O(log(min(N,M)))_Space_O(1)
 
 object Solution {
-    // scalastyle:ignore
+    // scalastyle:off scala:S3776
     def findMedianSortedArrays(nums1: Array[Int], nums2: Array[Int]): Double = {
         if (nums2.length < nums1.length) {
             findMedianSortedArrays(nums2, nums1)

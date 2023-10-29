@@ -5,7 +5,7 @@ package g0001_0100.s0015_3sum
 // #Big_O_Time_O(n*log(n))_Space_O(n^2) #2023_10_29_Time_701_ms_(98.81%)_Space_66.7_MB_(88.10%)
 
 object Solution {
-    // scalastyle:ignore
+    // scalastyle:off scala:S3776
     def threeSum(nums: Array[Int]): List[List[Int]] = {
         val sortedNums = nums.sorted
         var result: List[List[Int]] = List()
