@@ -15,7 +15,7 @@ object LinkedListUtils {
         pre.next
     }
 
-    def createSinglyLinkedList(listValues: List[Int]): ListNode = {
+    def createSinglyLinkedList(listValues: Array[Int]): ListNode = {
         if (listValues == null || listValues.isEmpty) {
             throw new IllegalArgumentException(
                 "Please pass in valid listValues to create a singly linked list."
