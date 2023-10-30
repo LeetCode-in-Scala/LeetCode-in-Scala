@@ -8,9 +8,9 @@ import com_github_leetcode.ListNode
 
 /*
  * Definition for singly-linked list.
- * class ListNode(var _x: Int = 0) {
- * var next: ListNode = null
- * var x: Int = _x
+ * class ListNode(_x: Int = 0, _next: ListNode = null) {
+ *   var next: ListNode = _next
+ *   var x: Int = _x
  * }
  */
 object Solution {
