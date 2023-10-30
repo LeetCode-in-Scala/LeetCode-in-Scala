@@ -33,6 +33,7 @@ object Solution {
         }
     }
 
+    @SuppressWarnings(Array("scala:S1871"))
     def mergeTwoLists(left: ListNode, right: ListNode): ListNode = {
         if (left == null) {
             right

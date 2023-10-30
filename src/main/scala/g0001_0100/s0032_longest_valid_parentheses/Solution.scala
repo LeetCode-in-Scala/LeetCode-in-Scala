@@ -4,6 +4,7 @@ package g0001_0100.s0032_longest_valid_parentheses
 // #2023_10_30_Time_444_ms_(87.50%)_Space_54.7_MB_(87.50%)
 
 object Solution {
+    @SuppressWarnings(Array("scala:S3776"))
     def longestValidParentheses(s: String): Int = {
         var max = 0
         var left = 0
