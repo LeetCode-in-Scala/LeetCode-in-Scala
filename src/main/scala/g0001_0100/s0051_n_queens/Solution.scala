@@ -4,6 +4,7 @@ package g0001_0100.s0051_n_queens
 // #2023_10_31_Time_483_ms_(93.33%)_Space_57.9_MB_(26.67%)
 
 object Solution {
+    @SuppressWarnings(Array("scala:S3776"))
     def solveNQueens(n: Int): List[List[String]] = {
         val rst = scala.collection.mutable.ListBuffer[List[String]]()
         dfs(n, List[Int](), rst)
