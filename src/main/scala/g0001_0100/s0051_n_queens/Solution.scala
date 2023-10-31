@@ -4,14 +4,14 @@ package g0001_0100.s0051_n_queens
 // #2023_10_31_Time_483_ms_(93.33%)_Space_57.9_MB_(26.67%)
 
 object Solution {
-    @SuppressWarnings(Array("scala:S3776"))
     def solveNQueens(n: Int): List[List[String]] = {
         val rst = scala.collection.mutable.ListBuffer[List[String]]()
         dfs(n, List[Int](), rst)
         rst.toList
     }
 
-    def dfs(n: Int, oneSol: List[Int], rst: scala.collection.mutable.ListBuffer[List[String]]): Unit = {
+    @SuppressWarnings(Array("scala:S3776"))
+    private def dfs(n: Int, oneSol: List[Int], rst: scala.collection.mutable.ListBuffer[List[String]]): Unit = {
         if (oneSol.length == n) {
             val line = for (idx <- oneSol) yield ("." * idx + "Q" + "." * (n - idx - 1))
             rst += line
