@@ -5,6 +5,7 @@ package g0001_0100.s0073_set_matrix_zeroes
 // #2023_11_02_Time_557_ms_(90.91%)_Space_57.7_MB_(36.36%)
 
 object Solution {
+    @SuppressWarnings(Array("scala:S3776"))
     def setZeroes(matrix: Array[Array[Int]]): Unit = {
         val m = matrix.length
         val n = matrix(0).length
