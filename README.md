@@ -137,6 +137,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/scala/g0101_0200/s0139_word_break/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 482 | 66.67
 
 #### Day 16 Dynamic Programming
 
@@ -372,6 +373,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0152 |[Maximum Product Subarray](src/main/scala/g0101_0200/s0152_maximum_product_subarray/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 472 | 100.00
 
 #### Day 7
 
@@ -388,6 +390,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/scala/g0101_0200/s0139_word_break/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 482 | 66.67
 | 0042 |[Trapping Rain Water](src/main/scala/g0001_0100/s0042_trapping_rain_water/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Two_Pointers, Stack, Monotonic_Stack, Big_O_Time_O(n)_Space_O(1) | 521 | 87.88
 
 #### Day 10
@@ -591,6 +594,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0138 |[Copy List with Random Pointer](src/main/scala/g0101_0200/s0138_copy_list_with_random_pointer/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 477 | 96.00
 
 #### Day 15
 
@@ -769,6 +773,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0142 |[Linked List Cycle II](src/main/scala/g0101_0200/s0142_linked_list_cycle_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 501 | 61.54
 
 #### Day 5 Greedy
 
@@ -853,6 +858,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0148 |[Sort List](src/main/scala/g0101_0200/s0148_sort_list/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Big_O_Time_O(log(N))_Space_O(log(N)) | 745 | 75.00
 
 #### Day 5 Greedy
 
@@ -900,6 +906,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0152 |[Maximum Product Subarray](src/main/scala/g0101_0200/s0152_maximum_product_subarray/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 472 | 100.00
 
 #### Day 14 Sliding Window/Two Pointer
 
@@ -948,6 +955,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/scala/g0101_0200/s0136_single_number/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 530 | 78.57
 
 #### Udemy Strings
 
@@ -1007,8 +1015,12 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 |-|-|-|-|-|-
 | 0114 |[Flatten Binary Tree to Linked List](src/main/scala/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.scala)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Big_O_Time_O(N)_Space_O(N) | 491 | 54.17
 | 0024 |[Swap Nodes in Pairs](src/main/scala/g0001_0100/s0024_swap_nodes_in_pairs/Solution.scala)| Medium | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 441 | 95.65
+| 0142 |[Linked List Cycle II](src/main/scala/g0101_0200/s0142_linked_list_cycle_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 501 | 61.54
+| 0141 |[Linked List Cycle](src/main/scala/g0101_0200/s0141_linked_list_cycle/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 503 | 84.25
 | 0021 |[Merge Two Sorted Lists](src/main/scala/g0001_0100/s0021_merge_two_sorted_lists/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 480 | 89.72
+| 0138 |[Copy List with Random Pointer](src/main/scala/g0101_0200/s0138_copy_list_with_random_pointer/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 477 | 96.00
 | 0025 |[Reverse Nodes in k-Group](src/main/scala/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.scala)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 520 | 80.00
+| 0146 |[LRU Cache](src/main/scala/g0101_0200/s0146_lru_cache/LRUCache.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 1590 | 85.19
 
 #### Udemy Tree Stack Queue
 
@@ -1034,6 +1046,8 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0139 |[Word Break](src/main/scala/g0101_0200/s0139_word_break/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 482 | 66.67
+| 0152 |[Maximum Product Subarray](src/main/scala/g0101_0200/s0152_maximum_product_subarray/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 472 | 100.00
 | 0070 |[Climbing Stairs](src/main/scala/g0001_0100/s0070_climbing_stairs/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 369 | 98.32
 | 0064 |[Minimum Path Sum](src/main/scala/g0001_0100/s0064_minimum_path_sum/Solution.scala)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 521 | 92.86
 | 0072 |[Edit Distance](src/main/scala/g0001_0100/s0072_edit_distance/Solution.scala)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 487 | 100.00
@@ -1099,6 +1113,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0141 |[Linked List Cycle](src/main/scala/g0101_0200/s0141_linked_list_cycle/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 503 | 84.25
 | 0021 |[Merge Two Sorted Lists](src/main/scala/g0001_0100/s0021_merge_two_sorted_lists/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 480 | 89.72
 
 #### Day 8 Linked List
@@ -1148,6 +1163,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/scala/g0101_0200/s0136_single_number/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 530 | 78.57
 | 0015 |[3Sum](src/main/scala/g0001_0100/s0015_3sum/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 721 | 95.24
 
 #### Day 2 Array
@@ -1200,6 +1216,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0002 |[Add Two Numbers](src/main/scala/g0001_0100/s0002_add_two_numbers/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Math, Linked_List, Recursion, Big_O_Time_O(max(N,M))_Space_O(max(N,M)) | 571 | 75.12
+| 0142 |[Linked List Cycle II](src/main/scala/g0101_0200/s0142_linked_list_cycle_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(N)_Space_O(1) | 501 | 61.54
 
 #### Day 11 Linked List
 
@@ -1336,11 +1353,22 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0136 |[Single Number](src/main/scala/g0101_0200/s0136_single_number/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 530 | 78.57
 
 ## Algorithms
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0152 |[Maximum Product Subarray](src/main/scala/g0101_0200/s0152_maximum_product_subarray/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Dynamic_Programming_I_Day_6, Level_2_Day_13_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 472 | 100.00
+| 0148 |[Sort List](src/main/scala/g0101_0200/s0148_sort_list/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Linked_List, Divide_and_Conquer, Merge_Sort, Level_2_Day_4_Linked_List, Big_O_Time_O(log(N))_Space_O(log(N)) | 745 | 75.00
+| 0146 |[LRU Cache](src/main/scala/g0101_0200/s0146_lru_cache/LRUCache.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Udemy_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 1590 | 85.19
+| 0142 |[Linked List Cycle II](src/main/scala/g0101_0200/s0142_linked_list_cycle_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_II_Day_10_Linked_List, Level_1_Day_4_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 501 | 61.54
+| 0141 |[Linked List Cycle](src/main/scala/g0101_0200/s0141_linked_list_cycle/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Data_Structure_I_Day_7_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 503 | 84.25
+| 0139 |[Word Break](src/main/scala/g0101_0200/s0139_word_break/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Dynamic_Programming, Trie, Memoization, Algorithm_II_Day_15_Dynamic_Programming, Dynamic_Programming_I_Day_9, Udemy_Dynamic_Programming, Big_O_Time_O(M+max\*N)_Space_O(M+N+max) | 482 | 66.67
+| 0138 |[Copy List with Random Pointer](src/main/scala/g0101_0200/s0138_copy_list_with_random_pointer/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Programming_Skills_II_Day_14, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 477 | 96.00
+| 0136 |[Single Number](src/main/scala/g0101_0200/s0136_single_number/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Data_Structure_II_Day_1_Array, Algorithm_I_Day_14_Bit_Manipulation, Udemy_Integers, Big_O_Time_O(N)_Space_O(1) | 530 | 78.57
+| 0131 |[Palindrome Partitioning](src/main/scala/g0101_0200/s0131_palindrome_partitioning/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(N\*2^N)_Space_O(2^N\*N) | 797 | 100.00
+| 0128 |[Longest Consecutive Sequence](src/main/scala/g0101_0200/s0128_longest_consecutive_sequence/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Union_Find, Big_O_Time_O(N_log_N)_Space_O(1) | 708 | 100.00
 | 0124 |[Binary Tree Maximum Path Sum](src/main/scala/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 523 | 89.47
 | 0121 |[Best Time to Buy and Sell Stock](src/main/scala/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 762 | 98.45
 | 0114 |[Flatten Binary Tree to Linked List](src/main/scala/g0101_0200/s0114_flatten_binary_tree_to_linked_list/Solution.scala)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(N) | 491 | 54.17
