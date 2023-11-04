@@ -28,19 +28,13 @@ object Solution {
         (head, slow)
     }
 
-    def mergeLists(first: ListNode, second: ListNode): ListNode = {
+    private def mergeLists(first: ListNode, second: ListNode): ListNode = {
         val res = new ListNode(0)
         var cur = res
         var (firstPtr, secondPtr) = (first, second)
 
         while (firstPtr != null || secondPtr != null) {
-            if (firstPtr == null) {
-                cur.next = secondPtr
-                secondPtr = secondPtr.next
-            } else if (secondPtr == null) {
-                cur.next = firstPtr
-                firstPtr = firstPtr.next
-            } else if (firstPtr.x <= secondPtr.x) {
+            if (firstPtr != null && (secondPtr == null || firstPtr.x <= secondPtr.x)) {
                 cur.next = firstPtr
                 firstPtr = firstPtr.next
             } else {
