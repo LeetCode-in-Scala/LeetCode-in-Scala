@@ -20,13 +20,11 @@ object Solution {
 
     // Using In order
     def inorder(root: TreeNode, k: Int): Unit = {
-        if (root != null) {
-            if (index < k) {
-                inorder(root.left, k)
-                index += 1
-                if (index == k) value = root.value
-                inorder(root.right, k)
-            }
+        if (root != null && index < k) {
+            inorder(root.left, k)
+            index += 1
+            if (index == k) value = root.value
+            inorder(root.right, k)
         }
     }
 }
