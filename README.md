@@ -280,6 +280,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0240 |[Search a 2D Matrix II](src/main/scala/g0201_0300/s0240_search_a_2d_matrix_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Big_O_Time_O(n+m)_Space_O(1) | 579 | 66.67
 
 #### Day 9
 
@@ -434,6 +435,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0064 |[Minimum Path Sum](src/main/scala/g0001_0100/s0064_minimum_path_sum/Solution.scala)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 521 | 92.86
+| 0221 |[Maximal Square](src/main/scala/g0201_0300/s0221_maximal_square/Solution.scala)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 626 | 100.00
 
 #### Day 17
 
@@ -493,6 +495,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0283 |[Move Zeroes](src/main/scala/g0201_0300/s0283_move_zeroes/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 572 | 86.11
 
 #### Day 7 Array
 
@@ -861,6 +864,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0019 |[Remove Nth Node From End of List](src/main/scala/g0001_0100/s0019_remove_nth_node_from_end_of_list/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Linked_List, Big_O_Time_O(L)_Space_O(L) | 492 | 52.63
+| 0234 |[Palindrome Linked List](src/main/scala/g0201_0300/s0234_palindrome_linked_list/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Stack, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 811 | 85.71
 
 #### Day 4 Linked List
 
@@ -877,6 +881,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0226 |[Invert Binary Tree](src/main/scala/g0201_0300/s0226_invert_binary_tree/Solution.scala)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 421 | 97.33
 
 #### Day 7 Tree
 
@@ -894,6 +899,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0230 |[Kth Smallest Element in a BST](src/main/scala/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 503 | 91.30
 
 #### Day 10 Graph/BFS/DFS
 
@@ -989,11 +995,14 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0121 |[Best Time to Buy and Sell Stock](src/main/scala/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 762 | 98.45
+| 0283 |[Move Zeroes](src/main/scala/g0201_0300/s0283_move_zeroes/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 572 | 86.11
 | 0001 |[Two Sum](src/main/scala/g0001_0100/s0001_two_sum/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 517 | 86.66
 | 0189 |[Rotate Array](src/main/scala/g0101_0200/s0189_rotate_array/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Math, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 600 | 96.59
 | 0055 |[Jump Game](src/main/scala/g0001_0100/s0055_jump_game/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 622 | 88.31
 | 0075 |[Sort Colors](src/main/scala/g0001_0100/s0075_sort_colors/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 450 | 84.21
+| 0238 |[Product of Array Except Self](src/main/scala/g0201_0300/s0238_product_of_array_except_self/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 634 | 79.44
 | 0041 |[First Missing Positive](src/main/scala/g0001_0100/s0041_first_missing_positive/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 650 | 100.00
+| 0239 |[Sliding Window Maximum](src/main/scala/g0201_0300/s0239_sliding_window_maximum/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Big_O_Time_O(n\*k)_Space_O(n+k) | 1149 | 86.67
 
 #### Udemy Two Pointers
 
@@ -1034,6 +1043,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | 0206 |[Reverse Linked List](src/main/scala/g0201_0300/s0206_reverse_linked_list/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(N)_Space_O(1) | 474 | 87.50
 | 0021 |[Merge Two Sorted Lists](src/main/scala/g0001_0100/s0021_merge_two_sorted_lists/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Big_O_Time_O(m+n)_Space_O(m+n) | 480 | 89.72
 | 0160 |[Intersection of Two Linked Lists](src/main/scala/g0101_0200/s0160_intersection_of_two_linked_lists/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Two_Pointers, Linked_List, Big_O_Time_O(M+N)_Space_O(1) | 564 | 96.43
+| 0234 |[Palindrome Linked List](src/main/scala/g0201_0300/s0234_palindrome_linked_list/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Stack, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(1) | 811 | 85.71
 | 0138 |[Copy List with Random Pointer](src/main/scala/g0101_0200/s0138_copy_list_with_random_pointer/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Linked_List, Big_O_Time_O(N)_Space_O(N) | 477 | 96.00
 | 0025 |[Reverse Nodes in k-Group](src/main/scala/g0001_0100/s0025_reverse_nodes_in_k_group/Solution.scala)| Hard | Top_100_Liked_Questions, Linked_List, Recursion, Big_O_Time_O(n)_Space_O(k) | 520 | 80.00
 | 0146 |[LRU Cache](src/main/scala/g0101_0200/s0146_lru_cache/LRUCache.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Hash_Table, Design, Linked_List, Doubly_Linked_List, Big_O_Time_O(1)_Space_O(capacity) | 1590 | 85.19
@@ -1044,9 +1054,11 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 |-|-|-|-|-|-
 | 0094 |[Binary Tree Inorder Traversal](src/main/scala/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 456 | 68.42
 | 0102 |[Binary Tree Level Order Traversal](src/main/scala/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 522 | 83.33
+| 0226 |[Invert Binary Tree](src/main/scala/g0201_0300/s0226_invert_binary_tree/Solution.scala)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 421 | 97.33
 | 0104 |[Maximum Depth of Binary Tree](src/main/scala/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 472 | 90.83
 | 0124 |[Binary Tree Maximum Path Sum](src/main/scala/g0101_0200/s0124_binary_tree_maximum_path_sum/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 523 | 89.47
 | 0098 |[Validate Binary Search Tree](src/main/scala/g0001_0100/s0098_validate_binary_search_tree/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 507 | 70.21
+| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/scala/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 539 | 70.73
 
 #### Udemy Trie and Heap
 
@@ -1166,6 +1178,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0226 |[Invert Binary Tree](src/main/scala/g0201_0300/s0226_invert_binary_tree/Solution.scala)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 421 | 97.33
 
 #### Day 13 Tree
 
@@ -1205,11 +1218,13 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0240 |[Search a 2D Matrix II](src/main/scala/g0201_0300/s0240_search_a_2d_matrix_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Big_O_Time_O(n+m)_Space_O(1) | 579 | 66.67
 
 #### Day 5 Array
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0238 |[Product of Array Except Self](src/main/scala/g0201_0300/s0238_product_of_array_except_self/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Prefix_Sum, Big_O_Time_O(n^2)_Space_O(n) | 634 | 79.44
 
 #### Day 6 String
 
@@ -1279,11 +1294,13 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0230 |[Kth Smallest Element in a BST](src/main/scala/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 503 | 91.30
 
 #### Day 18 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/scala/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 539 | 70.73
 
 #### Day 19 Graph
 
@@ -1294,6 +1311,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0215 |[Kth Largest Element in an Array](src/main/scala/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 799 | 95.45
 
 #### Day 21 Heap Priority Queue
 
@@ -1318,6 +1336,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0283 |[Move Zeroes](src/main/scala/g0201_0300/s0283_move_zeroes/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 572 | 86.11
 
 #### Day 4 Two Pointers
 
@@ -1386,6 +1405,16 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0283 |[Move Zeroes](src/main/scala/g0201_0300/s0283_move_zeroes/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Algorithm_I_Day_3_Two_Pointers, Programming_Skills_I_Day_6_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 572 | 86.11
+| 0240 |[Search a 2D Matrix II](src/main/scala/g0201_0300/s0240_search_a_2d_matrix_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Data_Structure_II_Day_4_Array, Binary_Search_II_Day_8, Big_O_Time_O(n+m)_Space_O(1) | 579 | 66.67
+| 0239 |[Sliding Window Maximum](src/main/scala/g0201_0300/s0239_sliding_window_maximum/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Udemy_Arrays, Big_O_Time_O(n\*k)_Space_O(n+k) | 1149 | 86.67
+| 0238 |[Product of Array Except Self](src/main/scala/g0201_0300/s0238_product_of_array_except_self/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Prefix_Sum, Data_Structure_II_Day_5_Array, Udemy_Arrays, Big_O_Time_O(n^2)_Space_O(n) | 634 | 79.44
+| 0236 |[Lowest Common Ancestor of a Binary Tree](src/main/scala/g0201_0300/s0236_lowest_common_ancestor_of_a_binary_tree/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Data_Structure_II_Day_18_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 539 | 70.73
+| 0234 |[Palindrome Linked List](src/main/scala/g0201_0300/s0234_palindrome_linked_list/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Two_Pointers, Stack, Linked_List, Recursion, Level_2_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(n)_Space_O(1) | 811 | 85.71
+| 0230 |[Kth Smallest Element in a BST](src/main/scala/g0201_0300/s0230_kth_smallest_element_in_a_bst/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_II_Day_17_Tree, Level_2_Day_9_Binary_Search_Tree, Big_O_Time_O(n)_Space_O(n) | 503 | 91.30
+| 0226 |[Invert Binary Tree](src/main/scala/g0201_0300/s0226_invert_binary_tree/Solution.scala)| Easy | Top_100_Liked_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_12_Tree, Level_2_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 421 | 97.33
+| 0221 |[Maximal Square](src/main/scala/g0201_0300/s0221_maximal_square/Solution.scala)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Dynamic_Programming_I_Day_16, Big_O_Time_O(m\*n)_Space_O(m\*n) | 626 | 100.00
+| 0215 |[Kth Largest Element in an Array](src/main/scala/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Data_Structure_II_Day_20_Heap_Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 799 | 95.45
 | 0208 |[Implement Trie (Prefix Tree)](src/main/scala/g0201_0300/s0208_implement_trie_prefix_tree/Trie.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Design, Trie, Level_2_Day_16_Design, Udemy_Trie_and_Heap, Big_O_Time_O(word.length())_or_O(prefix.length())_Space_O(N) | 610 | 100.00
 | 0207 |[Course Schedule](src/main/scala/g0201_0300/s0207_course_schedule/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Graph, Topological_Sort, Big_O_Time_O(N)_Space_O(N) | 548 | 87.81
 | 0206 |[Reverse Linked List](src/main/scala/g0201_0300/s0206_reverse_linked_list/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Linked_List, Recursion, Data_Structure_I_Day_8_Linked_List, Algorithm_I_Day_10_Recursion_Backtracking, Level_1_Day_3_Linked_List, Udemy_Linked_List, Big_O_Time_O(N)_Space_O(1) | 474 | 87.50
