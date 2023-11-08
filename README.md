@@ -79,6 +79,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.scala)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 576 | 100.00
 
 #### Day 6 Breadth First Search Depth First Search
 
@@ -145,6 +146,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 522 | 88.89
 
 #### Day 17 Dynamic Programming
 
@@ -156,6 +158,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0072 |[Edit Distance](src/main/scala/g0001_0100/s0072_edit_distance/Solution.scala)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 487 | 100.00
+| 0322 |[Coin Change](src/main/scala/g0301_0400/s0322_coin_change/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 533 | 84.21
 
 #### Day 19 Bit Manipulation
 
@@ -255,6 +258,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 522 | 88.89
 
 #### Day 4
 
@@ -265,6 +269,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0287 |[Find the Duplicate Number](src/main/scala/g0201_0300/s0287_find_the_duplicate_number/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Big_O_Time_O(n)_Space_O(n) | 765 | 77.38
 
 #### Day 6
 
@@ -447,6 +452,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0300 |[Longest Increasing Subsequence](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 522 | 88.89
 
 #### Day 19
 
@@ -458,6 +464,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0322 |[Coin Change](src/main/scala/g0301_0400/s0322_coin_change/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 533 | 84.21
 
 #### Day 21
 
@@ -591,6 +598,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.scala)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 576 | 100.00
 
 #### Day 13
 
@@ -830,6 +838,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0438 |[Find All Anagrams in a String](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.scala)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n+m)_Space_O(1) | 576 | 100.00
 
 #### Day 13 Hashmap
 
@@ -841,6 +850,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0394 |[Decode String](src/main/scala/g0301_0400/s0394_decode_string/Solution.scala)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 476 | 10.00
 
 #### Day 15 Heap
 
@@ -887,6 +897,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0437 |[Path Sum III](src/main/scala/g0401_0500/s0437_path_sum_iii/Solution.scala)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Big_O_Time_O(n)_Space_O(n) | 498 | 90.91
 
 #### Day 8 Binary Search
 
@@ -916,11 +927,13 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0198 |[House Robber](src/main/scala/g0101_0200/s0198_house_robber/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 426 | 98.04
+| 0322 |[Coin Change](src/main/scala/g0301_0400/s0322_coin_change/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Big_O_Time_O(m\*n)_Space_O(amount) | 533 | 84.21
 
 #### Day 13 Dynamic Programming
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0416 |[Partition Equal Subset Sum](src/main/scala/g0401_0500/s0416_partition_equal_subset_sum/Solution.scala)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 577 | 100.00
 | 0152 |[Maximum Product Subarray](src/main/scala/g0101_0200/s0152_maximum_product_subarray/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 472 | 100.00
 
 #### Day 14 Sliding Window/Two Pointer
@@ -981,6 +994,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | 0003 |[Longest Substring Without Repeating Characters](src/main/scala/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Big_O_Time_O(n)_Space_O(1) | 482 | 96.91
 | 0020 |[Valid Parentheses](src/main/scala/g0001_0100/s0020_valid_parentheses/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, String, Stack, Big_O_Time_O(n)_Space_O(n) | 449 | 65.58
 | 0005 |[Longest Palindromic Substring](src/main/scala/g0001_0100/s0005_longest_palindromic_substring/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 502 | 87.65
+| 0394 |[Decode String](src/main/scala/g0301_0400/s0394_decode_string/Solution.scala)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Big_O_Time_O(n)_Space_O(n) | 476 | 10.00
 | 0049 |[Group Anagrams](src/main/scala/g0001_0100/s0049_group_anagrams/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, String, Hash_Table, Sorting, Big_O_Time_O(n\*k_log_k)_Space_O(n) | 618 | 91.67
 
 #### Udemy Binary Search
@@ -1081,6 +1095,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | 0198 |[House Robber](src/main/scala/g0101_0200/s0198_house_robber/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 426 | 98.04
 | 0070 |[Climbing Stairs](src/main/scala/g0001_0100/s0070_climbing_stairs/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Big_O_Time_O(n)_Space_O(n) | 369 | 98.32
 | 0064 |[Minimum Path Sum](src/main/scala/g0001_0100/s0064_minimum_path_sum/Solution.scala)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Matrix, Big_O_Time_O(m\*n)_Space_O(m\*n) | 521 | 92.86
+| 0300 |[Longest Increasing Subsequence](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Big_O_Time_O(n\*log_n)_Space_O(n) | 522 | 88.89
 | 0072 |[Edit Distance](src/main/scala/g0001_0100/s0072_edit_distance/Solution.scala)| Hard | Top_100_Liked_Questions, String, Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 487 | 100.00
 | 0010 |[Regular Expression Matching](src/main/scala/g0001_0100/s0010_regular_expression_matching/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 459 | 75.00
 
@@ -1098,6 +1113,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0338 |[Counting Bits](src/main/scala/g0301_0400/s0338_counting_bits/Solution.scala)| Easy | Top_100_Liked_Questions, Dynamic_Programming, Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 447 | 92.68
 
 #### Udemy Design
 
@@ -1312,6 +1328,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
 | 0215 |[Kth Largest Element in an Array](src/main/scala/g0201_0300/s0215_kth_largest_element_in_an_array/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Heap_Priority_Queue, Divide_and_Conquer, Quickselect, Big_O_Time_O(n\*log(n))_Space_O(log(n)) | 799 | 95.45
+| 0347 |[Top K Frequent Elements](src/main/scala/g0301_0400/s0347_top_k_frequent_elements/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Big_O_Time_O(n\*log(n))_Space_O(k) | 589 | 93.24
 
 #### Day 21 Heap Priority Queue
 
@@ -1405,6 +1422,16 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0438 |[Find All Anagrams in a String](src/main/scala/g0401_0500/s0438_find_all_anagrams_in_a_string/Solution.scala)| Medium | Top_100_Liked_Questions, String, Hash_Table, Sliding_Window, Algorithm_II_Day_5_Sliding_Window, Programming_Skills_II_Day_12, Level_1_Day_12_Sliding_Window/Two_Pointer, Big_O_Time_O(n+m)_Space_O(1) | 576 | 100.00
+| 0437 |[Path Sum III](src/main/scala/g0401_0500/s0437_path_sum_iii/Solution.scala)| Medium | Top_100_Liked_Questions, Depth_First_Search, Tree, Binary_Tree, Level_2_Day_7_Tree, Big_O_Time_O(n)_Space_O(n) | 498 | 90.91
+| 0416 |[Partition Equal Subset Sum](src/main/scala/g0401_0500/s0416_partition_equal_subset_sum/Solution.scala)| Medium | Top_100_Liked_Questions, Array, Dynamic_Programming, Level_2_Day_13_Dynamic_Programming, Big_O_Time_O(n\*sums)_Space_O(n\*sums) | 577 | 100.00
+| 0394 |[Decode String](src/main/scala/g0301_0400/s0394_decode_string/Solution.scala)| Medium | Top_100_Liked_Questions, String, Stack, Recursion, Level_1_Day_14_Stack, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 476 | 10.00
+| 0347 |[Top K Frequent Elements](src/main/scala/g0301_0400/s0347_top_k_frequent_elements/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Sorting, Heap_Priority_Queue, Counting, Divide_and_Conquer, Quickselect, Bucket_Sort, Data_Structure_II_Day_20_Heap_Priority_Queue, Big_O_Time_O(n\*log(n))_Space_O(k) | 589 | 93.24
+| 0338 |[Counting Bits](src/main/scala/g0301_0400/s0338_counting_bits/Solution.scala)| Easy | Top_100_Liked_Questions, Dynamic_Programming, Bit_Manipulation, Udemy_Bit_Manipulation, Big_O_Time_O(num)_Space_O(num) | 447 | 92.68
+| 0322 |[Coin Change](src/main/scala/g0301_0400/s0322_coin_change/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Breadth_First_Search, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_20, Level_2_Day_12_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(amount) | 533 | 84.21
+| 0300 |[Longest Increasing Subsequence](src/main/scala/g0201_0300/s0300_longest_increasing_subsequence/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Binary_Search, Algorithm_II_Day_16_Dynamic_Programming, Binary_Search_II_Day_3, Dynamic_Programming_I_Day_18, Udemy_Dynamic_Programming, Big_O_Time_O(n\*log_n)_Space_O(n) | 522 | 88.89
+| 0295 |[Find Median from Data Stream](src/main/scala/g0201_0300/s0295_find_median_from_data_stream/MedianFinder.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Sorting, Two_Pointers, Design, Heap_Priority_Queue, Data_Stream, Big_O_Time_O(n\*log_n)_Space_O(n) | 1690 | 83.33
+| 0287 |[Find the Duplicate Number](src/main/scala/g0201_0300/s0287_find_the_duplicate_number/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Two_Pointers, Bit_Manipulation, Binary_Search_II_Day_5, Big_O_Time_O(n)_Space_O(n) | 765 | 77.38
 | 0283 |[Move Zeroes](src/main/scala/g0201_0300/s0283_move_zeroes/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Two_Pointers, Algorithm_I_Day_3_Two_Pointers, Programming_Skills_I_Day_6_Array, Udemy_Arrays, Big_O_Time_O(n)_Space_O(1) | 572 | 86.11
 | 0240 |[Search a 2D Matrix II](src/main/scala/g0201_0300/s0240_search_a_2d_matrix_ii/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Matrix, Divide_and_Conquer, Data_Structure_II_Day_4_Array, Binary_Search_II_Day_8, Big_O_Time_O(n+m)_Space_O(1) | 579 | 66.67
 | 0239 |[Sliding Window Maximum](src/main/scala/g0201_0300/s0239_sliding_window_maximum/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Heap_Priority_Queue, Sliding_Window, Queue, Monotonic_Queue, Udemy_Arrays, Big_O_Time_O(n\*k)_Space_O(n+k) | 1149 | 86.67
