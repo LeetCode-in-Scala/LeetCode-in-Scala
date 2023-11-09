@@ -6,6 +6,14 @@ package g0201_0300.s0230_kth_smallest_element_in_a_bst
 
 import com_github_leetcode.TreeNode
 
+/*
+ * Definition for a binary tree node.
+ * class TreeNode(_value: Int = 0, _left: TreeNode = null, _right: TreeNode = null) {
+ *   var value: Int = _value
+ *   var left: TreeNode = _left
+ *   var right: TreeNode = _right
+ * }
+ */
 object Solution {
     var index = 0
     var value = -1
