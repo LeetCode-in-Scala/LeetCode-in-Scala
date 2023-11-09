@@ -1,8 +1,8 @@
 package g0001_0100.s0006_zigzag_conversion
 
-import scala.collection.mutable
-
 // #Medium #String #2023_11_09_Time_542_ms_(85.71%)_Space_55.7_MB_(90.48%)
+
+import scala.collection.mutable
 
 object Solution {
     def convert(s: String, numRows: Int): String = {
