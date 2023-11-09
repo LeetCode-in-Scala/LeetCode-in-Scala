@@ -3,6 +3,7 @@ package g0001_0100.s0008_string_to_integer_atoi
 // #Medium #Top_Interview_Questions #String #2023_11_09_Time_441_ms_(100.00%)_Space_54.7_MB_(67.86%)
 
 object Solution {
+    @SuppressWarnings(Array("scala:S3776"))
     def myAtoi(str: String): Int = {
         if (str == null || str.isEmpty) {
             return 0
