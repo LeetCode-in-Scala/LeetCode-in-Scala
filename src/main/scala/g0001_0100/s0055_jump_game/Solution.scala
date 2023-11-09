@@ -6,7 +6,7 @@ package g0001_0100.s0055_jump_game
 
 object Solution {
     def canJump(nums: Array[Int]): Boolean = {
-        var sz = nums.length
+        val sz = nums.length
         // We set tmp to 1 so it won't break on the first iteration
         var tmp = 1
 

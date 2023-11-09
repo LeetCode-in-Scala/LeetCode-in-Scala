@@ -14,7 +14,7 @@ object Solution {
             return minDistance(w2, w1)
         }
 
-        var dp = Array.range(0, n2 + 1)
+        val dp = Array.range(0, n2 + 1)
 
         for (j <- 0 to n2) {
             dp(j) = j
