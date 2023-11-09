@@ -6,7 +6,7 @@ lazy val root = (project in file(".")).
       scalaVersion := "2.13.8",
       version      := "1.0"
     )),
-    name := "leetcode-scala",
+    name := "leetcode-in-scala",
     libraryDependencies += scalaTest % Test,
     libraryDependencies += scalacticTest % Test
   )
