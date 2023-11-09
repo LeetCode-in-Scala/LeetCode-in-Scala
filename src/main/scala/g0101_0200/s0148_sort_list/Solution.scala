@@ -6,6 +6,13 @@ package g0101_0200.s0148_sort_list
 
 import com_github_leetcode.ListNode
 
+/*
+ * Definition for singly-linked list.
+ * class ListNode(_x: Int = 0, _next: ListNode = null) {
+ *   var next: ListNode = _next
+ *   var x: Int = _x
+ * }
+ */
 object Solution {
     def sortList(head: ListNode): ListNode = {
         if (head == null || head.next == null) {
