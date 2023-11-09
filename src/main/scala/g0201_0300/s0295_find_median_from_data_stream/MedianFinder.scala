@@ -10,7 +10,7 @@ class MedianFinder() {
     private val maxHeap = mutable.PriorityQueue.empty[Int]
     private val minHeap = mutable.PriorityQueue.empty[Int](Ordering.Int.reverse)
 
-    def addNum(num: Int) {
+    def addNum(num: Int): Unit = {
         maxHeap += num
         minHeap += maxHeap.dequeue()
 
@@ -24,7 +24,6 @@ class MedianFinder() {
         else
             (maxHeap.head + minHeap.head).toDouble / 2
     }
-
 }
 
 /*
