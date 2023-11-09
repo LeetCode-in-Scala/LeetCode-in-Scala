@@ -991,7 +991,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 |-|-|-|-|-|-
 | 0136 |[Single Number](src/main/scala/g0101_0200/s0136_single_number/Solution.scala)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Big_O_Time_O(N)_Space_O(1) | 530 | 78.57
 | 0007 |[Reverse Integer](src/main/scala/g0001_0100/s0007_reverse_integer/Solution.scala)| Medium | Top_Interview_Questions, Math | 405 | 90.16
-| 0009 |[Palindrome Number](src/main/scala/g0001_0100/s0009_palindrome_number/Solution.scala)| Easy | Math | ers | ers
+| 0009 |[Palindrome Number](src/main/scala/g0001_0100/s0009_palindrome_number/Solution.scala)| Easy | Math | 453 | 99.49
 
 #### Udemy Strings
 
@@ -1527,7 +1527,7 @@ implementation 'com.github.javadev:leetcode-in-scala:1.0'
 | 0015 |[3Sum](src/main/scala/g0001_0100/s0015_3sum/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Sorting, Two_Pointers, Data_Structure_II_Day_1_Array, Algorithm_II_Day_3_Two_Pointers, Udemy_Two_Pointers, Big_O_Time_O(n\*log(n))_Space_O(n^2) | 721 | 95.24
 | 0011 |[Container With Most Water](src/main/scala/g0001_0100/s0011_container_with_most_water/Solution.scala)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Greedy, Two_Pointers, Algorithm_II_Day_4_Two_Pointers, Big_O_Time_O(n)_Space_O(1) | 683 | 99.13
 | 0010 |[Regular Expression Matching](src/main/scala/g0001_0100/s0010_regular_expression_matching/Solution.scala)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 459 | 75.00
-| 0009 |[Palindrome Number](src/main/scala/g0001_0100/s0009_palindrome_number/Solution.scala)| Easy | Math | ers | ers
+| 0009 |[Palindrome Number](src/main/scala/g0001_0100/s0009_palindrome_number/Solution.scala)| Easy | Math, Udemy_Integers | 453 | 99.49
 | 0008 |[String to Integer (atoi)](src/main/scala/g0001_0100/s0008_string_to_integer_atoi/Solution.scala)| Medium | Top_Interview_Questions, String | 441 | 100.00
 | 0007 |[Reverse Integer](src/main/scala/g0001_0100/s0007_reverse_integer/Solution.scala)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 405 | 90.16
 | 0006 |[Zigzag Conversion](src/main/scala/g0001_0100/s0006_zigzag_conversion/Solution.scala)| Medium | String | 542 | 85.71
