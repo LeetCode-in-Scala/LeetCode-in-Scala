@@ -29,4 +29,3 @@ object Solution {
         if (result == -1) minJump else result
     }
 }
-
