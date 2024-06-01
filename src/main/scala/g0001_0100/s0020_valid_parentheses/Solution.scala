@@ -33,4 +33,3 @@ object Solution {
         result && stack.isEmpty
     }
 }
-
