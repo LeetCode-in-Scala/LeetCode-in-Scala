@@ -2,7 +2,7 @@ package g0001_0100.s0079_word_search
 
 // #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Matrix #Backtracking
 // #Algorithm_II_Day_11_Recursion_Backtracking #Big_O_Time_O(4^(m*n))_Space_O(m*n)
-// #2023_11_02_Time_783_ms_(94.87%)_Space_54.9_MB_(100.00%)
+// #2024_06_01_Time_848_ms_(74.19%)_Space_59.5_MB_(66.67%)
 
 object Solution {
     private val directions = Array(Array(-1, 0), Array(1, 0), Array(0, -1), Array(0, 1))
