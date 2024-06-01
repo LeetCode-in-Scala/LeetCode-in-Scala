@@ -15,13 +15,15 @@ object Solution {
             }
         }
 
+        var result = nums.length + 1
         for (i <- nums.indices) {
             if (nums(i) != i + 1) {
-                return i + 1
+                result = i + 1
+                return result
             }
         }
 
-        nums.length + 1
+        result
     }
 
     @tailrec

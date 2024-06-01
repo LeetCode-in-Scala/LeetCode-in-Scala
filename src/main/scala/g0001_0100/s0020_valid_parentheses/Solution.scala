@@ -5,26 +5,32 @@ package g0001_0100.s0020_valid_parentheses
 // #2023_10_29_Time_449_ms_(65.58%)_Space_56.6_MB_(22.33%)
 
 import scala.collection.mutable.Stack
+import scala.util.control.Breaks._
 
 object Solution {
     def isValid(s: String): Boolean = {
         val stack = Stack[Char]()
+        var result = true
 
-        for (i <- 0 until s.length) {
-            val c = s.charAt(i)
-            if (c == '(' || c == '[' || c == '{') {
-                stack.push(c)
-            } else if (c == ')' && stack.nonEmpty && stack.top == '(') {
-                stack.pop()
-            } else if (c == '}' && stack.nonEmpty && stack.top == '{') {
-                stack.pop()
-            } else if (c == ']' && stack.nonEmpty && stack.top == '[') {
-                stack.pop()
-            } else {
-                return false
+        breakable {
+            for (i <- 0 until s.length) {
+                val c = s.charAt(i)
+                if (c == '(' || c == '[' || c == '{') {
+                    stack.push(c)
+                } else if (c == ')' && stack.nonEmpty && stack.top == '(') {
+                    stack.pop()
+                } else if (c == '}' && stack.nonEmpty && stack.top == '{') {
+                    stack.pop()
+                } else if (c == ']' && stack.nonEmpty && stack.top == '[') {
+                    stack.pop()
+                } else {
+                    result = false
+                    break()
+                }
             }
         }
 
-        stack.isEmpty
+        result && stack.isEmpty
     }
 }
+
